@@ -1,9 +1,9 @@
-<img width="194" alt="Screenshot 2024-07-10 003955 C" src="https://github.com/halimotoye/Dashboarding-in-Excel/assets/172057907/d400d464-53bd-4435-a9c2-33455f3d20fa">**10ALYTICS SALES PERFORMANCE DASHBOARD**
+<img width="194" alt="Screenshot 2024-07-10 003955 C" src="https://github.com/halimotoye/Dashboarding-in-Excel/assets/172057907/d400d464-53bd-4435-a9c2-33455f3d20fa"> **10ALYTICS SALES PERFORMANCE DASHBOARD**
 
 An excel dashboad is basically a high-level visual repreentation of key business metrics.
 It leverages excel features like Pivot Table and Pivot charts and allows us to interact with the data to gain better insights which will drive important business decisions.
 
-<img width="236" alt="Screenshot 2024-07-10 004515 D" src="https://github.com/halimotoye/Dashboarding-in-Excel/assets/172057907/4ebacdcc-9611-42e4-9b78-4be34ce4e43f">**CUSTOMER PURCHASE BEHAVIOUR DASHBOARD**
+<img width="236" alt="Screenshot 2024-07-10 004515 D" src="https://github.com/halimotoye/Dashboarding-in-Excel/assets/172057907/4ebacdcc-9611-42e4-9b78-4be34ce4e43f"> **CUSTOMER PURCHASE BEHAVIOUR DASHBOARD**
 
 A dashboard is an information management tool that receives data from a linked database to provide data visualizations.
 
